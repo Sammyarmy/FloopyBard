@@ -8,7 +8,6 @@ public class LogicScript : MonoBehaviour
 {
     public int highScore;
     public int playerScore;
-
     public Text currentScoreText;
     public Text highScoreText;
     public GameObject gameOverScreen;
